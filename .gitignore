@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.env
+.vscode/
+model_output.zip
+
+dataset/
