@@ -1,4 +1,4 @@
-# Traductor LSM en vivo — Proyecto modular (3 días)
+# Traductor LSM en vivo — Proyecto modular
 
 ## Estructura del proyecto
 
